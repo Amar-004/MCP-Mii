@@ -1,2 +1,5 @@
 .idea/
 .venv*/
+token.json
+*.txt
+*.pth
